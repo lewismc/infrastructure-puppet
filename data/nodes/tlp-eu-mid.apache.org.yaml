@@ -507,6 +507,8 @@ vhosts_asf::vhosts::vhosts:
       - 'www.apachegroup.org'
       - 'www.*.apache.org'
       - 'www-eu.apache.org'
+      - 'apachecon.com'
+      - 'www.apachecon.com'
     directories:
       -
         path: '/var/www/www.apache.org/content'
