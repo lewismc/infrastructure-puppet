@@ -1070,6 +1070,9 @@ buildbot = rw
 [/incubator/samoa]
 @samoa = rw
 
+[/incubator/sdap]
+@sdap = rw
+
 [/incubator/senssoft]
 @senssoft = rw
 
